@@ -1,3 +1,17 @@
+'''
+
+ _____ _      ____  _     ____ ___  _ _____ _____   _      ____  _      ____  _____ _____ _      _____ _      _____   
+/  __// \__/|/  __\/ \   /  _ \\  \///  __//  __/  / \__/|/  _ \/ \  /|/  _ \/  __//  __// \__/|/  __// \  /|/__ __\  
+|  \  | |\/|||  \/|| |   | / \| \  / |  \  |  \    | |\/||| / \|| |\ ||| / \|| |  _|  \  | |\/|||  \  | |\ ||  / \    
+|  /_ | |  |||  __/| |_/\| \_/| / /  |  /_ |  /_   | |  ||| |-||| | \||| |-||| |_//|  /_ | |  |||  /_ | | \||  | |    
+\____\\_/  \|\_/   \____/\____//_/   \____\\____\  \_/  \|\_/ \|\_/  \|\_/ \|\____\\____\\_/  \|\____\\_/  \|  \_/    
+                                                                                                                      
+
+
+'''
+
+
+
 # Employee Management System
 
 A simple Employee Management System that allows you to manage employee records, including their personal information, salary details, and department assignments. This project provides basic CRUD (Create, Read, Update, Delete) functionality for managing employees.
