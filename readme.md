@@ -1,16 +1,3 @@
-'''
-
- _____ _      ____  _     ____ ___  _ _____ _____   _      ____  _      ____  _____ _____ _      _____ _      _____   
-/  __// \__/|/  __\/ \   /  _ \\  \///  __//  __/  / \__/|/  _ \/ \  /|/  _ \/  __//  __// \__/|/  __// \  /|/__ __\  
-|  \  | |\/|||  \/|| |   | / \| \  / |  \  |  \    | |\/||| / \|| |\ ||| / \|| |  _|  \  | |\/|||  \  | |\ ||  / \    
-|  /_ | |  |||  __/| |_/\| \_/| / /  |  /_ |  /_   | |  ||| |-||| | \||| |-||| |_//|  /_ | |  |||  /_ | | \||  | |    
-\____\\_/  \|\_/   \____/\____//_/   \____\\____\  \_/  \|\_/ \|\_/  \|\_/ \|\____\\____\\_/  \|\____\\_/  \|  \_/    
-                                                                                                                      
-
-
-'''
-
-
 
 # Employee Management System
 
@@ -28,7 +15,7 @@ A simple Employee Management System that allows you to manage employee records, 
 ## Introduction
 
 The Employee Management System is designed to streamline the process of managing employee information within an organization. It provides a user-friendly interface for adding new employees, updating their details, and deleting employee records when necessary. This system aims to improve efficiency and organization in workforce management.
-
+![Ui of java application](https://github.com/rbuwaENG/Employee_Management/blob/main/uiimage.JPG?raw=true)
 ## Features
 
 - Add new employees with their personal information, such as name, contact details, and address.
