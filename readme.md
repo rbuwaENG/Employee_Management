@@ -26,15 +26,8 @@ The Employee Management System is designed to streamline the process of managing
 
 ## Technologies Used
 
-- Frontend:
-  - HTML
-  - CSS
-  - JavaScript
-  - Bootstrap (optional)
-
-- Backend:
-  - Programming language (e.g., Python, Java, C#)
-  - Framework (e.g., Flask, Spring Boot, ASP.NET)
+- language :
+  - java -Nstbeans 
 
 - Database:
   - Choose a database system that suits your needs (e.g., MySQL, PostgreSQL, MongoDB)
